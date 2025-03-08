@@ -7,8 +7,5 @@ An undergraduate of Information Engineering | Gadjah Mada University | Intereste
 
 • 📄 About my experience [CV](https://drive.google.com/file/d/1-2z4pQD7wzDxLaMG0IVUtjfIrnZcKsDv/view?usp=drivesdk)
 
-• ⭐ Fun Fact : Has null experience in coding before collag
-
-Any tips or suggestion is highly appreciated
 
 ## Thanks
